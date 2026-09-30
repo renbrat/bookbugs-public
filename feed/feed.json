@@ -137,10 +137,10 @@
       "gebraucht": false
     },
     "alternative_2": {
-      "book_id": "ameisen-in-adas-bauch",
-      "titel": "Ameisen in Adas Bauch",
-      "beschreibung": "Ada kommt in die Schule – und mit ihr ein ganzer Wirbel an Gefühlen: schokoladenwarmes Glück, Angst, Eifersucht. In kurzen, zusammenhängenden Alltagsepisoden, mit Humor illustriert von Philip Waechter. Etwas umfangreicher als die anderen Bücher, lässt sich aber gut über mehrere Abende vorlesen. Passt besonders für Kinder, die gerade in die Schule gekommen sind oder bald kommen.",
-      "price_display": "18,00 EUR",
+      "book_id": "ein-loewe-in-der-bibliothek",
+      "titel": "Ein Löwe in der Bibliothek!",
+      "beschreibung": "Eines Tages spaziert ein Löwe in die Bibliothek. Die strenge Bibliothekarin lässt ihn bleiben – solange er sich an die Regeln hält. Das tut er vorbildlich, hilft sogar mit und liebt die Vorlesestunde. Eine warmherzige Geschichte darüber, wann Regeln wichtig sind – und wann man sie auch mal brechen darf.",
+      "price_display": "16,00 EUR",
       "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase5_alternative_2.jpg?v=202610",
       "reifegrad": "3_spät",
       "gebraucht": false
