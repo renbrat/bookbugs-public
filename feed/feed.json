@@ -63,7 +63,7 @@
     "hauptbuch": {
       "book_id": "buddeln-baggern-bauen",
       "titel": "Buddeln, baggern, bauen",
-      "beschreibung": "Ein Meisterwerk von einem Buch! Zu jedem Fahrzeug gibt es eine Doppelseite mit einer sehr lustigen Kurzgeschichte. Dabei zeigt Ole Könnecke die Funktionen der Maschinen auf spielerische, kindgerechte Art, und in kleiner grauer Schrift steht noch etwas Wissenswertes dazu. Also quasi ein Wissensbuch, lustig verpackt!",
+      "beschreibung": "Ein Meisterwerk von einem Buch! Zu jedem Fahrzeug gibt es eine Doppelseite mit einer sehr lustigen Kurzgeschichte. Dabei werden die Funktionen der Maschinen auf spielerische, kindgerechte Art gezeigt. In kleiner grauer Schrift steht noch etwas Wissenswertes für besonders Interessierte.",
       "price_display": "16,00 EUR",
       "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase3_hauptbuch.jpg?v=202610",
       "reifegrad": "2_mittel",
@@ -121,7 +121,7 @@
     "hauptbuch": {
       "book_id": "prinzessin-isabella",
       "titel": "Prinzessin Isabella",
-      "beschreibung": "Isabella hat keine Lust, eine brave Prinzessin zu sein – sie will ihre Haare nicht kämmen lassen und keine feinen Kleider tragen. Als Strafe soll sie im Schweinestall arbeiten, und genau dort ist sie glücklich. Ein Klassiker von Cornelia Funke, der Mädchen und Jungen gleichermaßen Spaß macht.",
+      "beschreibung": "Isabella hat keine Lust, eine Prinzessin zu sein – es ist ihr langweilig. Isabella und ihre Schwestern haben Diener für alles. Sie will sich viel lieber dreckig machen, selbst die Nase putzen und ihre Brote selber schmieren. Ein Klassiker von Cornelia Funke, der Mädchen und Jungen gleichermaßen Spaß macht.",
       "price_display": "15,00 EUR",
       "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase5_hauptbuch.jpg?v=202610",
       "reifegrad": "2_mittel",
