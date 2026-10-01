@@ -92,7 +92,7 @@
     "hauptbuch": {
       "book_id": "waldtage",
       "titel": "Waldtage!",
-      "beschreibung": "Eine Kitagruppe verbringt eine Woche im Wald. Aus dem Gebüsch knackt es – ist das ein Wildschwein? Ein Wolf? Mit jedem Tag werden die Kinder mutiger, bis am letzten Tag eine Überraschung wartet. Ich mag, dass hier echte Kinder im Mittelpunkt stehen und die Spannung ganz aus ihrer Fantasie kommt.",
+      "beschreibung": "Eine Woche lang jeden Tag im Wald. Ein Kind erzählt mit ganz viel Zauber und Selbstverständnis von ganz besonderen Tagen mit ihrer Kita-Gruppe. So kindnah und lebendig, dass man das Gefühl bekommt, selbst dabei zu sein.",
       "price_display": "12,95 EUR",
       "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase4_hauptbuch.jpg?v=202610",
       "reifegrad": "2_mittel",
@@ -101,7 +101,7 @@
     "alternative_1": {
       "book_id": "nick-und-der-wal",
       "titel": "Nick und der Wal",
-      "beschreibung": "Nach einem Sturm findet Nick einen kleinen Wal am Strand und nimmt ihn heimlich mit nach Hause – in die Badewanne.",
+      "beschreibung": "Nach einem Sturm findet Nick einen kleinen Wal am Strand und nimmt ihn heimlich mit nach Hause – in die Badewanne. Sehr gefühlvoll mit wenig Worten.",
       "price_display": "16,00 EUR",
       "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase4_alternative_1.jpg?v=202610",
       "reifegrad": "1_früh",
@@ -110,7 +110,7 @@
     "alternative_2": {
       "book_id": "das-grosse-abenteuer-von-rudolfus-rozendaal",
       "titel": "Das große Abenteuer von Rudolfus Rozendaal",
-      "beschreibung": "Aarons Kuscheltier Rudolfus Rozendaal ist verschwunden. Papa meint, er sei wohl auf ein großes Abenteuer aufgebrochen – und was Rudolfus dabei erlebt, ist eine urkomische Reise durch die Waschmaschine.",
+      "beschreibung": "Aarons Kuscheltier Rudolfus Rozendaal ist verschwunden. Zum Glück hat er einen sehr kreativen, liebevollen Papa, der ihm erzählt, auf welchem fantastischen Abenteuer Rudolfus sich nun befindet. Entzückend, kreativ, kindlich!",
       "price_display": "16,00 EUR",
       "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase4_alternative_2.jpg?v=202610",
       "reifegrad": "3_spät",
