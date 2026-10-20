@@ -2,7 +2,7 @@
   "month": "November",
   "deadline": "4. November",
   "phases": {
-    "1_year_old": {
+    "phase_1_year_old": {
       "main_book": {
         "book_id": "gluecksfisch-sehen-tasten-fuehlen",
         "title": "Glücksfisch: Sehen, Tasten, Fühlen: Mach mit!",
@@ -22,7 +22,7 @@
         "used": false
       }
     },
-    "2_year_old": {
+    "phase_2_year_old": {
       "main_book": {
         "book_id": "bring-alle-katzen-ins-bett",
         "title": "Bring alle Katzen ins Bett!",
@@ -42,7 +42,7 @@
         "used": false
       }
     },
-    "3_year_old": {
+    "phase_3_year_old": {
       "main_book": {
         "book_id": "buddeln-baggern-bauen",
         "title": "Buddeln, baggern, bauen",
@@ -62,7 +62,7 @@
         "used": false
       }
     },
-    "4_year_old": {
+    "phase_4_year_old": {
       "main_book": {
         "book_id": "waldtage",
         "title": "Waldtage!",
@@ -82,7 +82,7 @@
         "used": false
       }
     },
-    "5_year_old": {
+    "phase_5_year_old": {
       "main_book": {
         "book_id": "prinzessin-isabella",
         "title": "Prinzessin Isabella",
@@ -102,7 +102,7 @@
         "used": false
       }
     },
-    "6plus_year_old": {
+    "phase_6plus_year_old": {
       "main_book": {
         "book_id": "prinzessin-isabella",
         "title": "Prinzessin Isabella",
