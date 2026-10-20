@@ -4,120 +4,120 @@
   "phases": {
     "phase_1_year_old": {
       "main_book": {
-        "book_id": "gluecksfisch-sehen-tasten-fuehlen",
-        "title": "Glücksfisch: Sehen, Tasten, Fühlen: Mach mit!",
-        "isbn": "9783737358460",
-        "description": "Das Buch lädt dazu ein, mit den Händen mitzumachen: Auf jeder Seite dürfen die Hände etwas tun oder fühlen. Eine Kombination aus Illustrationen und Fotos macht das Buch lebendig für die Kleinen. Ganz am Ende kann man ein eigenes Foto einstecken!",
-        "price_display": "13,00 EUR",
+        "book_id": "erstes-lernen-mein-tag",
+        "title": "Erstes Lernen. Mein Tag",
+        "isbn": "9783831050802",
+        "description": "Ein Bildwörterbuch mit echten Fotos: vom Aufstehen bis zum Einschlafen, ein ganzer Tag zum Zeigen und Benennen.",
+        "price_display": "11,00 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_main_book.jpg?v=202611",
         "used": false
       },
       "alternative": {
-        "book_id": "wo-ist-mama-kleiner-eisbaer",
-        "title": "Wo ist Mama, kleiner Eisbär?",
-        "isbn": "9783649653691",
-        "description": "Das Kind sucht unter den Filzklappen die Mama vom kleinen Eisbären. Das Suchen und Wiederfinden wird in diesem Alter gerne immer und immer wieder gespielt.",
-        "price_display": "10,00 EUR",
+        "book_id": "meine-schiebebahn-pappe-fahr-mit-auf-dem-bauernhof",
+        "title": "Meine Schiebebahn-Pappe: Fahr mit auf dem Bauernhof",
+        "isbn": "9783480241798",
+        "description": "Auf dem Bauernhof ist was los: Schieben, entdecken und mitfahren, Seite für Seite.",
+        "price_display": "15,00 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_alternative.jpg?v=202611",
         "used": false
       }
     },
     "phase_2_year_old": {
       "main_book": {
-        "book_id": "bring-alle-katzen-ins-bett",
-        "title": "Bring alle Katzen ins Bett!",
-        "isbn": "9783751209311",
-        "description": "Bunte Katzen, die noch nicht schlafen wollen: Durch Drehen bekommt jede Katze ihren Schlafanzug an und landet im Bett. Das Kind bringt die Geschichte selbst zu Ende – ein schönes Mitmachbuch für das Abendritual.",
-        "price_display": "14,00 EUR",
+        "book_id": "rutsch-doch-dachs",
+        "title": "Rutsch doch, Dachs!",
+        "isbn": "9783779507819",
+        "description": "Der Dachs rutscht, und alle wollen mit. Ein fröhliches Tierbuch mit viel Schwung.",
+        "price_display": "14,90 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/2_year_old_main_book.jpg?v=202611",
         "used": false
       },
       "alternative": {
-        "book_id": "schuettel-den-apfelbaum",
-        "title": "Schüttel den Apfelbaum – Ein Mitmachbuch",
-        "isbn": "9783809436720",
-        "description": "Für mich ein absoluter Klassiker und ein Muss in jedem Haushalt. Schlichte Illustrationen, und der Text lädt das Kind ein, etwas zu tun: schütteln, pusten, klopfen – und auf der nächsten Seite sieht man, was passiert ist. Das perfekte Buch, um mit Zweijährigen mit dem Vorlesen anzufangen, und es trägt lange.",
-        "price_display": "9,99 EUR",
+        "book_id": "guck-mal-schieb-mal-fahrzeuge",
+        "title": "Guck mal, schieb mal! Suche und entdecke - Fahrzeuge",
+        "isbn": "9783743207790",
+        "description": "Schieben, suchen, entdecken: Auf jeder Seite gibt es bei den Fahrzeugen etwas zu finden.",
+        "price_display": "9,95 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/2_year_old_alternative.jpg?v=202611",
         "used": false
       }
     },
     "phase_3_year_old": {
       "main_book": {
-        "book_id": "buddeln-baggern-bauen",
-        "title": "Buddeln, baggern, bauen",
-        "isbn": "9783446277229",
-        "description": "Ein Meisterwerk von einem Buch! Zu jedem Fahrzeug gibt es eine Doppelseite mit einer sehr lustigen Kurzgeschichte. Dabei werden die Funktionen der Maschinen auf spielerische, kindgerechte Art gezeigt. In kleiner grauer Schrift steht noch etwas Wissenswertes für besonders Interessierte.",
-        "price_display": "16,00 EUR",
+        "book_id": "lichterland-das-kleine-irgendwas",
+        "title": "Lichterland. Das kleine Irgendwas",
+        "isbn": "9783751205948",
+        "description": "Ein leuchtender Zauberwald, zwei Kinder und ein kleines Irgendwas, das sie neugierig macht.",
+        "price_display": "15,00 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_main_book.jpg?v=202611",
         "used": false
       },
       "alternative": {
-        "book_id": "alle-welt-geht-schlafen",
-        "title": "Alle Welt geht schlafen",
-        "isbn": "9783845869841",
-        "description": "Pia geht schlafen – und gleichzeitig machen sich Kinder in Indien, Japan oder Neuseeland auf ihre eigene Art bereit für die Nacht. Ein ruhiges Gute-Nacht-Buch, das zeigt, wie unterschiedlich Kulturen und Länder sind – und doch wollen alle Kinder eine Geschichte vor dem Einschlafen. Mit dicken Pappseiten.",
-        "price_display": "12,99 EUR",
+        "book_id": "mia-hat-fusshusten",
+        "title": "Mia hat Fußhusten",
+        "isbn": "9783737355391",
+        "description": "Mia ist erkältet, und das sorgt für viel Wirbel. Lustig erzählt, mit großen Bildern.",
+        "price_display": "6,50 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_alternative.jpg?v=202611",
         "used": false
       }
     },
     "phase_4_year_old": {
       "main_book": {
-        "book_id": "waldtage",
-        "title": "Waldtage!",
-        "isbn": "9783407758101",
-        "description": "Eine Woche lang jeden Tag im Wald. Ein Kind erzählt mit ganz viel Zauber und Selbstverständnis von ganz besonderen Tagen mit ihrer Kita-Gruppe. So kindnah und lebendig, dass man das Gefühl bekommt, selbst dabei zu sein.",
-        "price_display": "12,95 EUR",
+        "book_id": "die-tortenhexe",
+        "title": "Die Tortenhexe",
+        "isbn": "9783570182741",
+        "description": "Die Tortenhexe rührt, backt und zaubert. Eine Geschichte zum Wasserlaufen im Mund.",
+        "price_display": "15,00 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/4_year_old_main_book.jpg?v=202611",
         "used": false
       },
       "alternative": {
-        "book_id": "nick-und-der-wal",
-        "title": "Nick und der Wal",
-        "isbn": "9783848900763",
-        "description": "Nach einem Sturm findet Nick einen kleinen Wal am Strand und nimmt ihn heimlich mit nach Hause – in die Badewanne. Sehr gefühlvoll mit wenig Worten.",
-        "price_display": "16,00 EUR",
+        "book_id": "polly-hilft-der-grossmutter",
+        "title": "Polly hilft der Großmutter",
+        "isbn": "9783789155321",
+        "description": "Polly packt mit an. Eine warme Geschichte von Astrid Lindgren mit liebevollen Bildern.",
+        "price_display": "13,00 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/4_year_old_alternative.jpg?v=202611",
         "used": false
       }
     },
     "phase_5_year_old": {
       "main_book": {
-        "book_id": "prinzessin-isabella",
-        "title": "Prinzessin Isabella",
-        "isbn": "9783789165023",
-        "description": "Isabella hat keine Lust, eine Prinzessin zu sein – es ist ihr langweilig. Isabella und ihre Schwestern haben Diener für alles. Sie will sich viel lieber dreckig machen, selbst die Nase putzen und ihre Brote selber schmieren. Ein Klassiker von Cornelia Funke, der Mädchen und Jungen gleichermaßen Spaß macht.",
-        "price_display": "15,00 EUR",
+        "book_id": "los-wir-fangen-einen-koch",
+        "title": "Los, wir fangen einen Koch!",
+        "isbn": "9783895654534",
+        "description": "Zwei Räuberkinder wollen einen Koch fangen. Das gibt Ärger, Chaos und Gelächter.",
+        "price_display": "16,00 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_main_book.jpg?v=202611",
         "used": false
       },
       "alternative": {
-        "book_id": "detektiv-samson",
-        "title": "Detektiv Samson",
-        "isbn": "9783458643944",
-        "description": "Der Hund Samson löst Fälle für die Tiere des Waldes – und das Kind ermittelt mit: durch unterirdische Tunnel, die Tiefsee, Wälder und Berge. Die dicht illustrierten Seiten sind Such- und Findebuch zugleich, hier gibt es bei jedem Lesen etwas Neues zu entdecken.",
-        "price_display": "18,00 EUR",
+        "book_id": "als-papas-haare-ferien-machten",
+        "title": "Als Papas Haare Ferien machten",
+        "isbn": "9783895654275",
+        "description": "Papas Haare machen Ferien. Eine freche, witzige Geschichte mit viel Humor.",
+        "price_display": "9,95 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_alternative.jpg?v=202611",
         "used": false
       }
     },
     "phase_6plus_year_old": {
       "main_book": {
-        "book_id": "prinzessin-isabella",
-        "title": "Prinzessin Isabella",
-        "isbn": "9783789165023",
-        "description": "Isabella hat keine Lust, eine Prinzessin zu sein – es ist ihr langweilig. Isabella und ihre Schwestern haben Diener für alles. Sie will sich viel lieber dreckig machen, selbst die Nase putzen und ihre Brote selber schmieren. Ein Klassiker von Cornelia Funke, der Mädchen und Jungen gleichermaßen Spaß macht.",
-        "price_display": "15,00 EUR",
+        "book_id": "geburtstag-im-staubsauger",
+        "title": "Geburtstag im Staubsauger",
+        "isbn": "9783551559920",
+        "description": "Ein Huhn feiert Geburtstag, und ausgerechnet der Staubsauger mischt mit. Witzig und überraschend.",
+        "price_display": "14,00 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/6plus_year_old_main_book.jpg?v=202611",
         "used": false
       },
       "alternative": {
-        "book_id": "detektiv-samson",
-        "title": "Detektiv Samson",
-        "isbn": "9783458643944",
-        "description": "Der Hund Samson löst Fälle für die Tiere des Waldes – und das Kind ermittelt mit: durch unterirdische Tunnel, die Tiefsee, Wälder und Berge. Die dicht illustrierten Seiten sind Such- und Findebuch zugleich, hier gibt es bei jedem Lesen etwas Neues zu entdecken.",
-        "price_display": "18,00 EUR",
+        "book_id": "hilfe-die-herdmanns-kommen-1",
+        "title": "Hilfe, die Herdmanns kommen 1",
+        "isbn": "9783789107719",
+        "description": "Die Herdmanns sind die wildesten Kinder der Stadt. Wenn sie kommen, ist nichts mehr sicher.",
+        "price_display": "14,00 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/6plus_year_old_alternative.jpg?v=202611",
         "used": false
       }
