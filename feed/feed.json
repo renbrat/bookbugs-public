@@ -7,18 +7,18 @@
         "book_id": "erstes-lernen-mein-tag",
         "title": "Erstes Lernen. Mein Tag",
         "isbn": "9783831050802",
-        "description": "Ein Bildwörterbuch mit echten Fotos: vom Aufstehen bis zum Einschlafen, ein ganzer Tag zum Zeigen und Benennen.",
+        "description": "Ein Bildwörterbuch mit echten Fotos: vom Aufstehen bis zum Einschlafen, ein ganzer Tag zum Zeigen und Benennen. Echte Fotos zeigen Dinge, die Kinder aus ihrem Alltag kennen.",
         "price_display": "11,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_main_book.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_main_book.jpg?v=202611b",
         "used": false
       },
       "alternative": {
         "book_id": "meine-schiebebahn-pappe-fahr-mit-auf-dem-bauernhof",
         "title": "Meine Schiebebahn-Pappe: Fahr mit auf dem Bauernhof",
         "isbn": "9783480241798",
-        "description": "Auf dem Bauernhof ist was los: Schieben, entdecken und mitfahren, Seite für Seite.",
+        "description": "Auf dem Bauernhof ist was los: Schieben, entdecken und mitfahren, Seite für Seite. Traktor, Anhänger und Co. lassen sich ganz einfach mitschieben.",
         "price_display": "15,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_alternative.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_alternative.jpg?v=202611b",
         "used": false
       }
     },
@@ -27,18 +27,18 @@
         "book_id": "rutsch-doch-dachs",
         "title": "Rutsch doch, Dachs!",
         "isbn": "9783779507819",
-        "description": "Der Dachs rutscht, und alle wollen mit. Ein fröhliches Tierbuch mit viel Schwung.",
+        "description": "Der Dachs rutscht, und alle wollen mit. Ein fröhliches Tierbuch mit viel Schwung. Mit Dachs, Fuchs und Co. wird jede Seite zum Rutschvergnügen.",
         "price_display": "14,90 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/2_year_old_main_book.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/2_year_old_main_book.jpg?v=202611b",
         "used": false
       },
       "alternative": {
         "book_id": "guck-mal-schieb-mal-fahrzeuge",
         "title": "Guck mal, schieb mal! Suche und entdecke - Fahrzeuge",
         "isbn": "9783743207790",
-        "description": "Schieben, suchen, entdecken: Auf jeder Seite gibt es bei den Fahrzeugen etwas zu finden.",
+        "description": "Schieben, suchen, entdecken: Auf jeder Seite gibt es bei den Fahrzeugen etwas zu finden. Bagger, Schiffe und Flugzeuge warten darauf, entdeckt zu werden.",
         "price_display": "9,95 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/2_year_old_alternative.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/2_year_old_alternative.jpg?v=202611b",
         "used": false
       }
     },
@@ -47,18 +47,18 @@
         "book_id": "lichterland-das-kleine-irgendwas",
         "title": "Lichterland. Das kleine Irgendwas",
         "isbn": "9783751205948",
-        "description": "Ein leuchtender Zauberwald, zwei Kinder und ein kleines Irgendwas, das sie neugierig macht.",
+        "description": "Ein leuchtender Zauberwald, zwei Kinder und ein kleines Irgendwas, das sie neugierig macht. Ein Buch voller Lichter, Zauber und Überraschungen.",
         "price_display": "15,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_main_book.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_main_book.jpg?v=202611b",
         "used": false
       },
       "alternative": {
         "book_id": "mia-hat-fusshusten",
         "title": "Mia hat Fußhusten",
         "isbn": "9783737355391",
-        "description": "Mia ist erkältet, und das sorgt für viel Wirbel. Lustig erzählt, mit großen Bildern.",
+        "description": "Mia ist erkältet, und das sorgt für viel Wirbel. Lustig erzählt, mit großen Bildern. Mit Humor erzählt, was passiert, wenn ein Kind krank ist und es sich trotzdem nicht langweilt.",
         "price_display": "6,50 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_alternative.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_alternative.jpg?v=202611b",
         "used": false
       }
     },
@@ -67,18 +67,18 @@
         "book_id": "die-tortenhexe",
         "title": "Die Tortenhexe",
         "isbn": "9783570182741",
-        "description": "Die Tortenhexe rührt, backt und zaubert. Eine Geschichte zum Wasserlaufen im Mund.",
+        "description": "Die Tortenhexe rührt, backt und zaubert. Eine Geschichte zum Wasserlaufen im Mund. Bunte Bilder zeigen, wie in der Küche der Hexe aus Zutaten Zauberei wird.",
         "price_display": "15,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/4_year_old_main_book.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/4_year_old_main_book.jpg?v=202611b",
         "used": false
       },
       "alternative": {
         "book_id": "polly-hilft-der-grossmutter",
         "title": "Polly hilft der Großmutter",
         "isbn": "9783789155321",
-        "description": "Polly packt mit an. Eine warme Geschichte von Astrid Lindgren mit liebevollen Bildern.",
+        "description": "Polly packt mit an. Eine warme Geschichte von Astrid Lindgren mit liebevollen Bildern. Gemütliche Winterbilder von Ilon Wikland zeigen eine Marktszene.",
         "price_display": "13,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/4_year_old_alternative.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/4_year_old_alternative.jpg?v=202611b",
         "used": false
       }
     },
@@ -87,18 +87,18 @@
         "book_id": "los-wir-fangen-einen-koch",
         "title": "Los, wir fangen einen Koch!",
         "isbn": "9783895654534",
-        "description": "Zwei Räuberkinder wollen einen Koch fangen. Das gibt Ärger, Chaos und Gelächter.",
+        "description": "Zwei Räuberkinder wollen einen Koch fangen. Das gibt Ärger, Chaos und Gelächter. Hinter der Geschichte steckt Räubergeschichten-Charme: wild, aber mit Herz.",
         "price_display": "16,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_main_book.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_main_book.jpg?v=202611b",
         "used": false
       },
       "alternative": {
         "book_id": "als-papas-haare-ferien-machten",
         "title": "Als Papas Haare Ferien machten",
         "isbn": "9783895654275",
-        "description": "Papas Haare machen Ferien. Eine freche, witzige Geschichte mit viel Humor.",
+        "description": "Papas Haare machen Ferien. Eine freche, witzige Geschichte mit viel Humor. Ein Buch für alle, die sich über Papas Frisur schon mal gewundert haben.",
         "price_display": "9,95 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_alternative.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_alternative.jpg?v=202611b",
         "used": false
       }
     },
@@ -107,18 +107,18 @@
         "book_id": "geburtstag-im-staubsauger",
         "title": "Geburtstag im Staubsauger",
         "isbn": "9783551559920",
-        "description": "Ein Huhn feiert Geburtstag, und ausgerechnet der Staubsauger mischt mit. Witzig und überraschend.",
+        "description": "Ein Huhn feiert Geburtstag, und ausgerechnet der Staubsauger mischt mit. Witzig und überraschend. Von Ulrich Hub, mit schrägen Bildern von Jörg Mühle.",
         "price_display": "14,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/6plus_year_old_main_book.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/6plus_year_old_main_book.jpg?v=202611b",
         "used": false
       },
       "alternative": {
         "book_id": "hilfe-die-herdmanns-kommen-1",
         "title": "Hilfe, die Herdmanns kommen 1",
         "isbn": "9783789107719",
-        "description": "Die Herdmanns sind die wildesten Kinder der Stadt. Wenn sie kommen, ist nichts mehr sicher.",
+        "description": "Die Herdmanns sind die wildesten Kinder der Stadt. Wenn sie kommen, ist nichts mehr sicher. Ein Kinderbuch-Klassiker über sechs Geschwister, die Weihnachten auf den Kopf stellen.",
         "price_display": "14,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/6plus_year_old_alternative.jpg?v=202611",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/6plus_year_old_alternative.jpg?v=202611b",
         "used": false
       }
     }
