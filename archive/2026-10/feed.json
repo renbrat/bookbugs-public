@@ -1,0 +1,164 @@
+{
+  "monat": "Oktober",
+  "frist": "8. Oktober",
+  "phase1": {
+    "hauptbuch": {
+      "book_id": "gluecksfisch-sehen-tasten-fuehlen",
+      "titel": "Glücksfisch: Sehen, Tasten, Fühlen: Mach mit!",
+      "isbn": "9783737358460",
+      "beschreibung": "Das Buch lädt dazu ein, mit den Händen mitzumachen: Auf jeder Seite dürfen die Hände etwas tun oder fühlen. Eine Kombination aus Illustrationen und Fotos macht das Buch lebendig für die Kleinen. Ganz am Ende kann man ein eigenes Foto einstecken!",
+      "price_display": "13,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase1_hauptbuch.jpg?v=202610",
+      "reifegrad": "1_früh",
+      "gebraucht": false
+    },
+    "alternative_1": {
+      "book_id": "wo-ist-mama-kleiner-eisbaer",
+      "titel": "Wo ist Mama, kleiner Eisbär?",
+      "isbn": "9783649653691",
+      "beschreibung": "Das Kind sucht unter den Filzklappen die Mama vom kleinen Eisbären. Das Suchen und Wiederfinden wird in diesem Alter gerne immer und immer wieder gespielt.",
+      "price_display": "10,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase1_alternative_1.jpg?v=202610",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
+    },
+    "alternative_2": {
+      "book_id": "duden-18-kennst-du-das-erste-woerter",
+      "titel": "Duden 18+: Kennst du das? Erste Wörter",
+      "isbn": "9783737330749",
+      "beschreibung": "Ein Bildwörterbuch mit echten Fotos aus der Welt des Kindes: Tiere, Spielzeug, Kleidung, nach Themen sortiert. Für die Jüngsten setze ich gerne auf Fotos statt Zeichnungen, weil das Wiedererkennen so leichter fällt.",
+      "price_display": "8,99 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase1_alternative_2.jpg?v=202610",
+      "reifegrad": "3_spät",
+      "gebraucht": false
+    }
+  },
+  "phase2": {
+    "hauptbuch": {
+      "book_id": "bring-alle-katzen-ins-bett",
+      "titel": "Bring alle Katzen ins Bett!",
+      "isbn": "9783751209311",
+      "beschreibung": "Bunte Katzen, die noch nicht schlafen wollen: Durch Drehen bekommt jede Katze ihren Schlafanzug an und landet im Bett. Das Kind bringt die Geschichte selbst zu Ende – ein schönes Mitmachbuch für das Abendritual.",
+      "price_display": "14,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase2_hauptbuch.jpg?v=202610",
+      "reifegrad": "3_spät",
+      "gebraucht": false
+    },
+    "alternative_1": {
+      "book_id": "schuettel-den-apfelbaum",
+      "titel": "Schüttel den Apfelbaum – Ein Mitmachbuch",
+      "isbn": "9783809436720",
+      "beschreibung": "Für mich ein absoluter Klassiker und ein Muss in jedem Haushalt. Schlichte Illustrationen, und der Text lädt das Kind ein, etwas zu tun: schütteln, pusten, klopfen – und auf der nächsten Seite sieht man, was passiert ist. Das perfekte Buch, um mit Zweijährigen mit dem Vorlesen anzufangen, und es trägt lange.",
+      "price_display": "9,99 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase2_alternative_1.jpg?v=202610",
+      "reifegrad": "1_früh",
+      "gebraucht": false
+    },
+    "alternative_2": {
+      "book_id": "wo-ist-der-blaetterdieb",
+      "titel": "Wo ist der Blätterdieb?",
+      "isbn": "9783833910722",
+      "beschreibung": "Das Eichhörnchen sucht den Dieb, der ihm seine Blätter geklaut hat – und unter den Filzklappen darf das Kind mitsuchen. Die Pappausgabe des bekannten Bilderbuchs „Der Blätterdieb“, vereinfacht für die Kleineren. Eigentlich bin ich kein Fan davon, Bücher für Ältere auf Pappe zu drucken, aber als Such- und Findebuch funktioniert es hier wirklich gut. Passend zum Herbst.",
+      "price_display": "10,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase2_alternative_2.jpg?v=202610",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
+    }
+  },
+  "phase3": {
+    "hauptbuch": {
+      "book_id": "buddeln-baggern-bauen",
+      "titel": "Buddeln, baggern, bauen",
+      "isbn": "9783446277229",
+      "beschreibung": "Ein Meisterwerk von einem Buch! Zu jedem Fahrzeug gibt es eine Doppelseite mit einer sehr lustigen Kurzgeschichte. Dabei werden die Funktionen der Maschinen auf spielerische, kindgerechte Art gezeigt. In kleiner grauer Schrift steht noch etwas Wissenswertes für besonders Interessierte.",
+      "price_display": "16,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase3_hauptbuch.jpg?v=202610",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
+    },
+    "alternative_1": {
+      "book_id": "alle-welt-geht-schlafen",
+      "titel": "Alle Welt geht schlafen",
+      "isbn": "9783845869841",
+      "beschreibung": "Pia geht schlafen – und gleichzeitig machen sich Kinder in Indien, Japan oder Neuseeland auf ihre eigene Art bereit für die Nacht. Ein ruhiges Gute-Nacht-Buch, das zeigt, wie unterschiedlich Kulturen und Länder sind – und doch wollen alle Kinder eine Geschichte vor dem Einschlafen. Mit dicken Pappseiten.",
+      "price_display": "12,99 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase3_alternative_1.jpg?v=202610",
+      "reifegrad": "1_früh",
+      "gebraucht": false
+    },
+    "alternative_2": {
+      "book_id": "die-kleine-schildkroete-die-vom-fliegen-traeumte",
+      "titel": "Die kleine Schildkröte, die vom Fliegen träumte",
+      "isbn": "9783845869353",
+      "beschreibung": "Jacques will fliegen wie die Möwen, baut sich dafür sogar eigene Flügel – und findet am Ende heraus, wo er wirklich zu Hause ist. Die Illustrationen sind wunderschön, der Text hat Humor, und mir gefällt, dass die Schildkröten nicht zu sehr vermenschlicht sind.",
+      "price_display": "16,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase3_alternative_2.jpg?v=202610",
+      "reifegrad": "3_spät",
+      "gebraucht": false
+    }
+  },
+  "phase4": {
+    "hauptbuch": {
+      "book_id": "waldtage",
+      "titel": "Waldtage!",
+      "isbn": "9783407758101",
+      "beschreibung": "Eine Woche lang jeden Tag im Wald. Ein Kind erzählt mit ganz viel Zauber und Selbstverständnis von ganz besonderen Tagen mit ihrer Kita-Gruppe. So kindnah und lebendig, dass man das Gefühl bekommt, selbst dabei zu sein.",
+      "price_display": "12,95 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase4_hauptbuch.jpg?v=202610",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
+    },
+    "alternative_1": {
+      "book_id": "nick-und-der-wal",
+      "titel": "Nick und der Wal",
+      "isbn": "9783848900763",
+      "beschreibung": "Nach einem Sturm findet Nick einen kleinen Wal am Strand und nimmt ihn heimlich mit nach Hause – in die Badewanne. Sehr gefühlvoll mit wenig Worten.",
+      "price_display": "16,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase4_alternative_1.jpg?v=202610",
+      "reifegrad": "1_früh",
+      "gebraucht": false
+    },
+    "alternative_2": {
+      "book_id": "das-grosse-abenteuer-von-rudolfus-rozendaal",
+      "titel": "Das große Abenteuer von Rudolfus Rozendaal",
+      "isbn": "9783864296659",
+      "beschreibung": "Aarons Kuscheltier Rudolfus Rozendaal ist verschwunden. Zum Glück hat er einen sehr kreativen, liebevollen Papa, der ihm erzählt, auf welchem fantastischen Abenteuer Rudolfus sich nun befindet. Entzückend, kreativ, kindlich!",
+      "price_display": "16,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase4_alternative_2.jpg?v=202610",
+      "reifegrad": "3_spät",
+      "gebraucht": false
+    }
+  },
+  "phase5": {
+    "hauptbuch": {
+      "book_id": "prinzessin-isabella",
+      "titel": "Prinzessin Isabella",
+      "isbn": "9783789165023",
+      "beschreibung": "Isabella hat keine Lust, eine Prinzessin zu sein – es ist ihr langweilig. Isabella und ihre Schwestern haben Diener für alles. Sie will sich viel lieber dreckig machen, selbst die Nase putzen und ihre Brote selber schmieren. Ein Klassiker von Cornelia Funke, der Mädchen und Jungen gleichermaßen Spaß macht.",
+      "price_display": "15,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase5_hauptbuch.jpg?v=202610",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
+    },
+    "alternative_1": {
+      "book_id": "detektiv-samson",
+      "titel": "Detektiv Samson",
+      "isbn": "9783458643944",
+      "beschreibung": "Der Hund Samson löst Fälle für die Tiere des Waldes – und das Kind ermittelt mit: durch unterirdische Tunnel, die Tiefsee, Wälder und Berge. Die dicht illustrierten Seiten sind Such- und Findebuch zugleich, hier gibt es bei jedem Lesen etwas Neues zu entdecken.",
+      "price_display": "18,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase5_alternative_1.jpg?v=202610",
+      "reifegrad": "1_früh",
+      "gebraucht": false
+    },
+    "alternative_2": {
+      "book_id": "ein-loewe-in-der-bibliothek",
+      "titel": "Ein Löwe in der Bibliothek!",
+      "isbn": "9783423763325",
+      "beschreibung": "Eines Tages spaziert ein Löwe in die Bibliothek. Die strenge Bibliothekarin lässt ihn bleiben – solange er sich an die Regeln hält. Das tut er vorbildlich, hilft sogar mit und liebt die Vorlesestunde. Eine warmherzige Geschichte darüber, wann Regeln wichtig sind – und wann man sie auch mal brechen darf.",
+      "price_display": "16,00 EUR",
+      "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/phase5_alternative_2.jpg?v=202610",
+      "reifegrad": "3_spät",
+      "gebraucht": false
+    }
+  }
+}
