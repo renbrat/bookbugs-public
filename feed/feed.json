@@ -37,12 +37,12 @@
         "used": false
       },
       "alternative": {
-        "book_id": "guck-mal-schieb-mal-fahrzeuge",
-        "title": "Guck mal, schieb mal! Suche und entdecke - Fahrzeuge",
-        "isbn": "9783743207790",
-        "description": "Schieben, suchen, entdecken: Auf jeder Seite gibt es bei den Fahrzeugen etwas zu finden. Bagger, Schiffe und Flugzeuge warten darauf, entdeckt zu werden.",
-        "price_display": "9,95 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/2_year_old_alternative.jpg?v=202611b",
+        "book_id": "sooo-schoen-ist-der-herbst",
+        "title": "Sooo schön ist der Herbst",
+        "isbn": "9783446281110",
+        "description": "Mit Uhu und Maus den Herbst erleben: Die Kinder helfen bei der Apfelernte, schütteln Bäume, pflücken Äpfel und rühren Apfelmus. Dazwischen wirbeln bunte Blätter im Wind, Pfützen laden zum Hüpfen ein, und am Ende heißt es: bitte zurückwinken!",
+        "price_display": "12,00 EUR",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/2_year_old_alternative.jpg?v=202611c",
         "used": false
       }
     },
