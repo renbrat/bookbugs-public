@@ -4,21 +4,25 @@
   "phases": {
     "phase_1_year_old": {
       "main_book": {
-        "book_id": "erstes-lernen-mein-tag",
-        "title": "Erstes Lernen. Mein Tag",
-        "isbn": "9783831050802",
-        "description": "Ein Bildwörterbuch mit echten Fotos: vom Aufstehen bis zum Einschlafen, ein ganzer Tag zum Zeigen und Benennen. Echte Fotos zeigen Dinge, die Kinder aus ihrem Alltag kennen.",
-        "price_display": "11,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_main_book.jpg?v=202611b",
+        "book_id": "zi-za-zappelfinger-plus-kennst-du-das-erste-woerter",
+        "title": "Zi-Za-Zappelfinger + Kennst du das? Erste Wörter",
+        "isbn": "9783737331999",
+        "bundle_isbns": [
+          "9783737331999",
+          "9783737376174"
+        ],
+        "description": "Zwei kleine Pappbücher im Paket: In „Zi-Za-Zappelfinger“ werden Tierreime mit den Fingern lebendig, die durch Löcher auf jeder Seite schlüpfen. „Kennst du das? Erste Wörter“ zeigt Fotos von Dingen aus dem Alltag zum Zeigen und Benennen.",
+        "price_display": "13,89 EUR",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_main_book.jpg?v=202611c",
         "used": false
       },
       "alternative": {
-        "book_id": "meine-schiebebahn-pappe-fahr-mit-auf-dem-bauernhof",
-        "title": "Meine Schiebebahn-Pappe: Fahr mit auf dem Bauernhof",
-        "isbn": "9783480241798",
-        "description": "Auf dem Bauernhof ist was los: Schieben, entdecken und mitfahren, Seite für Seite. Traktor, Anhänger und Co. lassen sich ganz einfach mitschieben.",
-        "price_display": "15,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_alternative.jpg?v=202611b",
+        "book_id": "schau-mal-was-passiert-in-der-nacht",
+        "title": "Schau mal, was passiert! In der Nacht",
+        "isbn": "9783743222175",
+        "description": "Im nächtlichen Wald werden manche Tiere erst richtig munter. Beim Umblättern verwandeln sich die Bilder, und die Reime verraten, welcher Käfer die Dunkelheit erhellt und welchen Trick der kleine Igel draufhat.",
+        "price_display": "14,00 EUR",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/1_year_old_alternative.jpg?v=202611c",
         "used": false
       }
     },
@@ -27,7 +31,7 @@
         "book_id": "rutsch-doch-dachs",
         "title": "Rutsch doch, Dachs!",
         "isbn": "9783779507819",
-        "description": "Der Dachs rutscht, und alle wollen mit. Ein fröhliches Tierbuch mit viel Schwung. Mit Dachs, Fuchs und Co. wird jede Seite zum Rutschvergnügen.",
+        "description": "Der Dachs will unbedingt rutschen, genau wie alle anderen Tiere auch. Doch oben auf der Leiter wird ihm die Höhe unheimlich, und er traut sich nicht hinunter. Ein fröhliches Pappbilderbuch über Mut und darüber, am Ende gemeinsam zu rutschen.",
         "price_display": "14,90 EUR",
         "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/2_year_old_main_book.jpg?v=202611b",
         "used": false
@@ -44,21 +48,21 @@
     },
     "phase_3_year_old": {
       "main_book": {
-        "book_id": "lichterland-das-kleine-irgendwas",
-        "title": "Lichterland. Das kleine Irgendwas",
-        "isbn": "9783751205948",
-        "description": "Ein leuchtender Zauberwald, zwei Kinder und ein kleines Irgendwas, das sie neugierig macht. Ein Buch voller Lichter, Zauber und Überraschungen.",
-        "price_display": "15,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_main_book.jpg?v=202611b",
+        "book_id": "mein-erstes-wimmelbuch-jahreszeiten",
+        "title": "Mein erstes Wimmelbuch. Jahreszeiten",
+        "isbn": "9783480233014",
+        "description": "Ein Wimmelbuch durch die vier Jahreszeiten: Auf großen, detailreichen Seiten gibt es im Frühling, Sommer, Herbst und Winter viel zu entdecken. Am Ende zeigt eine Jahreszeitenuhr, wie sich die Natur durch das Jahr verändert.",
+        "price_display": "12,00 EUR",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_main_book.jpg?v=202611c",
         "used": false
       },
       "alternative": {
-        "book_id": "mia-hat-fusshusten",
-        "title": "Mia hat Fußhusten",
-        "isbn": "9783737355391",
-        "description": "Mia ist erkältet, und das sorgt für viel Wirbel. Lustig erzählt, mit großen Bildern. Mit Humor erzählt, was passiert, wenn ein Kind krank ist und es sich trotzdem nicht langweilt.",
-        "price_display": "6,50 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_alternative.jpg?v=202611b",
+        "book_id": "alle-weg",
+        "title": "Alle weg",
+        "isbn": "9783779507642",
+        "description": "Zehn Kinder spielen Verstecken, und auf jeder Seite verschwindet eines mehr: im Heu, im Boot, im Blumenbeet. Die Reime zählen mit, und hinter beweglichen Klappen warten am Ende alle versteckten Kinder.",
+        "price_display": "14,00 EUR",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/3_year_old_alternative.jpg?v=202611c",
         "used": false
       }
     },
@@ -73,32 +77,32 @@
         "used": false
       },
       "alternative": {
-        "book_id": "polly-hilft-der-grossmutter",
-        "title": "Polly hilft der Großmutter",
-        "isbn": "9783789155321",
-        "description": "Polly packt mit an. Eine warme Geschichte von Astrid Lindgren mit liebevollen Bildern. Gemütliche Winterbilder von Ilon Wikland zeigen eine Marktszene.",
-        "price_display": "13,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/4_year_old_alternative.jpg?v=202611b",
+        "book_id": "die-gelben-gummistiefel",
+        "title": "Die gelben Gummistiefel",
+        "isbn": "9783702243500",
+        "description": "Ein Paar gelbe Gummistiefel wird in einer großen Familie von Kind zu Kind weitergereicht. Dabei erzählen die Stiefel viele kleine Geschichten vom Zusammengehören und Teilen.",
+        "price_display": "18,00 EUR",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/4_year_old_alternative.jpg?v=202611c",
         "used": false
       }
     },
     "phase_5_year_old": {
       "main_book": {
-        "book_id": "los-wir-fangen-einen-koch",
-        "title": "Los, wir fangen einen Koch!",
-        "isbn": "9783895654534",
-        "description": "Zwei Räuberkinder wollen einen Koch fangen. Das gibt Ärger, Chaos und Gelächter. Hinter der Geschichte steckt Räubergeschichten-Charme: wild, aber mit Herz.",
-        "price_display": "16,00 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_main_book.jpg?v=202611b",
+        "book_id": "nachtspaziergang",
+        "title": "Nachtspaziergang!",
+        "isbn": "9783407759528",
+        "description": "Die Igelkinder dürfen im Kindergarten übernachten und machen vor lauter Aufregung einen Nachtspaziergang. Dabei sehen Bagger plötzlich aus wie Dinosaurier, und Schaukeln quietschen wie Vampire.",
+        "price_display": "14,00 EUR",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_main_book.jpg?v=202611c",
         "used": false
       },
       "alternative": {
-        "book_id": "als-papas-haare-ferien-machten",
-        "title": "Als Papas Haare Ferien machten",
-        "isbn": "9783895654275",
-        "description": "Papas Haare machen Ferien. Eine freche, witzige Geschichte mit viel Humor. Ein Buch für alle, die sich über Papas Frisur schon mal gewundert haben.",
-        "price_display": "9,95 EUR",
-        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_alternative.jpg?v=202611b",
+        "book_id": "unser-tag-im-wald",
+        "title": "Unser Tag im Wald",
+        "isbn": "9783964281821",
+        "description": "Ein Waldausflug, bei dem das Kind bestimmt: Auf jeder Seite entscheidet es selbst, was es anzieht, mitnimmt oder isst und welchen Weg es geht. So verläuft der Tag bei jedem Lesen anders.",
+        "price_display": "19,00 EUR",
+        "image_url": "https://raw.githubusercontent.com/renbrat/bookbugs-public/main/covers/5_year_old_alternative.jpg?v=202611c",
         "used": false
       }
     },
